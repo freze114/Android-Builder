@@ -2,7 +2,7 @@
     {
       "kernelSource": {
         "name": "OPPOA8",
-        "repo": "https://github.com/JustLikeCheese/android_kernel_oppo_OP4AED",
+        "repo": "https://github.com/freze114/android_kernel_oppo_OP4AED",
         "branch": "master",
         "device": "OP4AED",
         "defconfig": "oppo6765_19181_defconfig"
@@ -59,6 +59,6 @@
         "release": true
       },
       "enableKernelSU": false,
-      "enableLXC": false
+      "enableLXC": true
     }
 ]
